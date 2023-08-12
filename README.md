@@ -3,6 +3,12 @@ Um simples banco de dados para administrar os dados dos alunos de uma faculdade.
 
 A simple database to manage college student data.
 
+Banco -> Criação do banco e das tabelas.
+Consulta -> Consulta ao banco e alterações.
+
+Banco -> Creation of database and tables.
+Consulta -> Consultation with the database and changes.
+
 # Regras de negocio (trading rules)
 - Português
   
