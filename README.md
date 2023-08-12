@@ -43,3 +43,43 @@ Cada professor lecionará no máximo 4 disciplinas;
 Cada professor é vinculado a um departamento;
 
 Professores tem um código de professor;
+
+- English
+
+A student can only be enrolled in one course at a time;
+
+Students have an identification code (RA);
+
+Courses are composed of disciplines;
+
+Each discipline will have a maximum of 30 students per class;
+
+Subjects can be mandatory or optional, depending on the course;
+
+Disciplines belong to departments;
+
+Each discipline has an identification code;
+
+Students can lock enrollment, not being then in any discipline;
+
+In each semester, each student can be enrolled in a maximum of 9 subjects;
+
+The student can only fail a maximum of 3 times in a subject;
+
+The college will have a maximum of 3000 students enrolled simultaneously, in 10 different courses;
+
+300 new students enter each year;
+
+There are 90 subjects in total;
+
+A School Transcript brings all the information of the subject studied by a student;
+
+Professors can be registered even without teaching disciplines;
+
+There are 40 professors working at the faculty;
+
+Each professor will teach a maximum of 4 subjects;
+
+Each professor is linked to a department;
+
+Teachers have a teacher code;
